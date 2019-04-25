@@ -1,4 +1,4 @@
-package com.revelation.wurm;
+package net.xyp.wurmunlimited.mods;
 
 import org.gotti.wurmunlimited.modloader.interfaces.*;
 import com.wurmonline.server.*;
